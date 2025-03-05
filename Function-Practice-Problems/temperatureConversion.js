@@ -1,6 +1,6 @@
 // Function to convert Celsius to Fahrenheit
 function celsiusToFahrenheit(celsius) {
-    return (celsius * 9 / 5) + 32; // Formula for °C to °F
+    return (celsius * 9 / 5) + 32; 
 }
 
 // Function to convert Fahrenheit to Celsius
